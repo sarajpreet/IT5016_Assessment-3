@@ -18,8 +18,3 @@ The **Requisition System** is a Python class-based application designed to manag
 
 To use the Requisition System, you need Python installed on your system. This project doesn't have external dependencies, so no additional installations are required beyond Python itself.
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/requisition-system.git
-   cd requisition-system
